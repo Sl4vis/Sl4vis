@@ -27,18 +27,27 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sl4vis&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sl4vis&theme=aura&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sl4vis&theme=aura&hide_border=false" />
-</p>
+<table align="center" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" valign="middle" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.shion.dev/api?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+    </td>
+    <td align="center" valign="middle" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td colspan="2" align="center" valign="middle" style="border: none; padding: 10px;">
+      <img src="https://streak-stats.demolab.com/?user=Sl4vis&theme=aura&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ---
 
