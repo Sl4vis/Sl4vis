@@ -33,21 +33,15 @@
 
 # 📊 GitHub Stats:
 
-<table align="center" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td align="center" valign="middle" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.shion.dev/api?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-    </td>
-    <td align="center" valign="middle" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
-    </td>
-  </tr>
-  <tr style="border: none; background: transparent;">
-    <td colspan="2" align="center" valign="middle" style="border: none; padding: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=Sl4vis&theme=aura&hide_border=false" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sl4vis&theme=aura&hide_border=false" />
+</p>
 
 ---
 
