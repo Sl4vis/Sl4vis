@@ -30,12 +30,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sl4vis&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sl4vis&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sl4vis&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sl4vis&theme=aura&hide_border=false" />
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=aura)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+</p>
 
 ---
 
