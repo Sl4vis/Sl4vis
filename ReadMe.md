@@ -40,11 +40,6 @@
   <img src="https://streak-stats.demolab.com/?user=Sl4vis&theme=aura&hide_border=false" />
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Socials:
