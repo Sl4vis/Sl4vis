@@ -28,7 +28,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sl4vis&theme=aura&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sl4vis&theme=aura&area=true&hide_border=false" />
 </p>
 
 # 📊 GitHub Stats:
