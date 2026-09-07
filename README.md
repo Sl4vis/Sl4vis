@@ -17,7 +17,7 @@
 ---
 
 <!-- ============ ABOUT ============ -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
+<img align="right" width="270" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,raspberrypi,arduino,docker,linux&perline=3&theme=dark" alt="AI / RL / Embedded stack" />
 
 ### 🧠 About me
 
@@ -31,8 +31,6 @@ technology with a creative approach.
 
 I enjoy working in a team, communicate openly, and I'm looking forward to
 opportunities where I can apply my experience and ideas to build effective solutions.
-
-📫 **slavohodor1@gmail.com**
 
 <br clear="right" />
 
