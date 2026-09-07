@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Slavo%20Hodor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Reinforcement%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Healthcare%20Tech&descAlignY=55&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Slavom%C3%ADr%20Hodor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FRL%20%C2%B7%20Computer%20Vision%20%C2%B7%20Embedded%20Systems&descAlignY=55&descSize=16" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sl4vis">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&width=650&lines=Software+Developer+%40+Siemens+Healthineers;Intelligent+Systems+%40+FEI+TUKE;Reinforcement+Learning+%26+Computer+Vision;Building+things+that+move%2C+see+and+heal" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&width=650&lines=AI+%2F+Reinforcement+Learning;Computer+Vision;Embedded+Systems;3%2B+years+of+hands-on+development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,15 +17,24 @@
 ---
 
 <!-- ============ ABOUT ============ -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
 
 ### 🧠 About me
 
-- 🎓 3rd year **Intelligent Systems** @ FEI TUKE, Košice
-- 💼 **Software Developer** @ Siemens Healthineers
-- 🔬 Working on **adaptive PPO rehabilitation systems** & multi-camera **motion capture**
-- 🤖 Interests: Reinforcement Learning, Computer Vision, Robotics, Edge AI (Jetson)
-- 📫 Reach me: **slavohodor1@gmail.com**
+I'm a student with **over three years of hands-on experience** in programming and
+software development. In my work I focus on quality, attention to detail, and
+original solutions that give each project its own character and help it stand out.
+
+Alongside development, I'm continuously learning and expanding my knowledge —
+particularly in **software engineering** and **neural networks** — where I combine
+technology with a creative approach.
+
+I enjoy working in a team, communicate openly, and I'm looking forward to
+opportunities where I can apply my experience and ideas to build effective solutions.
+
+`AI / RL` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `Embedded Systems`
+
+📫 **slavohodor1@gmail.com**
 
 <br clear="right" />
 
@@ -54,7 +63,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Robotics / Edge**
+**Robotics / Embedded**
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
@@ -119,7 +128,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TVOJ_LINKEDIN_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/slavoo__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="mailto:slavohodor1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
