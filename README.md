@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI+%2F+Reinforcement+Learning+%C2%B7+Computer+Vision+%C2%B7+Embedded+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&repeat=true&width=900&height=40&lines=AI%2FRL+%C2%B7+Computer+Vision+%C2%B7+Embedded+Systems" alt="Typing SVG" />
   </a>
 </p>
 
