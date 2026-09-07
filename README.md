@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sl4vis&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="assets/name.svg" width="100%" alt="Sl4vis" />
 </p>
 
 <p align="center">
@@ -17,26 +17,37 @@
 ---
 
 <!-- ============ ABOUT ============ -->
-<img align="right" width="400" src="assets/hero-v2.svg" alt="Multi-camera motion capture rig tracking a rehabilitation patient" />
-
-### 🧠 About me
-
-I'm a student with **over three years of hands-on experience** in programming and
-software development. In my work I focus on quality, attention to detail, and
-original solutions that give each project its own character and help it stand out.
-
-Alongside development, I'm continuously learning and expanding my knowledge —
-particularly in **software engineering** and **neural networks** — where I combine
-technology with a creative approach.
-
-I enjoy working in a team, communicate openly, and I'm looking forward to
-opportunities where I can apply my experience and ideas to build effective solutions.
-
-<a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/slavoo__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:slavohodor1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br clear="right" />
+<table>
+  <tr>
+    <td valign="middle" width="52%">
+      <h3>🧠 About me</h3>
+      <p>
+        I'm a student with <strong>over three years of hands-on experience</strong> in
+        programming and software development. In my work I focus on quality, attention
+        to detail, and original solutions that give each project its own character and
+        help it stand out.
+      </p>
+      <p>
+        Alongside development, I'm continuously learning and expanding my knowledge —
+        particularly in <strong>software engineering</strong> and <strong>neural
+        networks</strong> — where I combine technology with a creative approach.
+      </p>
+      <p>
+        I enjoy working in a team, communicate openly, and I'm looking forward to
+        opportunities where I can apply my experience and ideas to build effective
+        solutions.
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://instagram.com/slavoo__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+        <a href="mailto:slavohodor1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </p>
+    </td>
+    <td valign="middle" width="48%" align="center">
+      <img src="assets/hero-v2.svg" width="100%" alt="Multi-camera motion capture rig tracking a rehabilitation patient" />
+    </td>
+  </tr>
+</table>
 
 ---
 
