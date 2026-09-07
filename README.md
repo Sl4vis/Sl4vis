@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Slavom%C3%ADr%20Hodor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FRL%20%C2%B7%20Computer%20Vision%20%C2%B7%20Embedded%20Systems&descAlignY=55&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Slavom%C3%ADr%20Hodor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&width=650&lines=AI+%2F+Reinforcement+Learning;Computer+Vision;Embedded+Systems;3%2B+years+of+hands-on+development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI+%2F+Reinforcement+Learning+%C2%B7+Computer+Vision+%C2%B7+Embedded+Systems" alt="Typing SVG" />
   </a>
 </p>
 
