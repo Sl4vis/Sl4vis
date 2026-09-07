@@ -17,7 +17,7 @@
 ---
 
 <!-- ============ ABOUT ============ -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/Sl4vis/Sl4vis/main/assets/hero.svg" alt="Multi-camera motion capture rig tracking a rehabilitation patient" />
+<img align="right" width="400" src="assets/hero-v2.svg" alt="Multi-camera motion capture rig tracking a rehabilitation patient" />
 
 ### 🧠 About me
 
