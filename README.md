@@ -91,8 +91,8 @@ opportunities where I can apply my experience and ideas to build effective solut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sl4vis&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=86400" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sl4vis&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=86400" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Sl4vis&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=86400" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sl4vis&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=86400" height="170" />
 </p>
 
 <p align="center">
@@ -101,23 +101,8 @@ opportunities where I can apply my experience and ideas to build effective solut
 
 ---
 
-<!-- ============ TROPHIES ============ -->
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sl4vis&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" />
-</p>
-
----
-
-<!-- ============ ACTIVITY GRAPH ============ -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sl4vis&theme=react-dark&bg_color=0D1117&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
-<!-- ============ SNAKE ============ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sl4vis/Sl4vis/output/snake.svg" alt="snake animation" width="100%" />
 </p>
