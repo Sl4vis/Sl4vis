@@ -32,6 +32,10 @@ technology with a creative approach.
 I enjoy working in a team, communicate openly, and I'm looking forward to
 opportunities where I can apply my experience and ideas to build effective solutions.
 
+<a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/slavoo__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:slavohodor1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <br clear="right" />
 
 ---
@@ -101,17 +105,6 @@ opportunities where I can apply my experience and ideas to build effective solut
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sl4vis&theme=aura&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="170" />
-</p>
-
----
-
-<!-- ============ SOCIALS ============ -->
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/slavom%C3%ADr-hodor-6642ab36b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/slavoo__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:slavohodor1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
