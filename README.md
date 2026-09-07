@@ -32,11 +32,17 @@ technology with a creative approach.
 I enjoy working in a team, communicate openly, and I'm looking forward to
 opportunities where I can apply my experience and ideas to build effective solutions.
 
-`AI / RL` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `Embedded Systems`
-
 📫 **slavohodor1@gmail.com**
 
 <br clear="right" />
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sl4vis/Sl4vis/output/snake.svg" alt="snake animation" width="100%" />
+</p>
 
 ---
 
@@ -97,14 +103,6 @@ opportunities where I can apply my experience and ideas to build effective solut
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sl4vis&theme=aura&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="170" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sl4vis/Sl4vis/output/snake.svg" alt="snake animation" width="100%" />
 </p>
 
 ---
