@@ -17,7 +17,7 @@
 ---
 
 <!-- ============ ABOUT ============ -->
-<img align="right" width="270" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,raspberrypi,arduino,docker,linux&perline=3&theme=dark" alt="AI / RL / Embedded stack" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/Sl4vis/Sl4vis/main/assets/hero.svg" alt="Multi-camera motion capture rig tracking a rehabilitation patient" />
 
 ### 🧠 About me
 
