@@ -44,7 +44,7 @@
       </p>
     </td>
     <td valign="middle" width="48%" align="center">
-      <img src="assets/hero-v2.svg" width="100%" alt="Multi-camera motion capture rig tracking a rehabilitation patient" />
+      <img src="assets/about.svg" width="100%" alt="Code brackets around a neural network" />
     </td>
   </tr>
 </table>
