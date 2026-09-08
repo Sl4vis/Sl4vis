@@ -44,7 +44,7 @@
       </p>
     </td>
     <td valign="middle" width="48%" align="center">
-      <img src="assets/about.svg" width="100%" alt="Code brackets around a neural network" />
+      <img src="assets/picture.svg" width="100%" alt="Vision to edge compute to neural inference pipeline" />
     </td>
   </tr>
 </table>
