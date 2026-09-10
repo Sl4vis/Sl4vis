@@ -1,0 +1,60 @@
+name: Daily Streak Commit
+
+on:
+  schedule:
+    # 18:00 UTC = 20:00 v lete (CEST), 19:00 UTC = 20:00 v zime (CET).
+    # Job sa spusti dvakrát, ale commit spraví len ak je v Bratislave presne 20:00.
+    - cron: "0 18 * * *"
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Commit ak je 20:00 v Bratislave
+        env:
+          TZ: Europe/Bratislava
+        run: |
+          set -euo pipefail
+
+          HOUR=$(date +%H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$HOUR" != "20" ]; then
+            echo "Lokálny čas je ${HOUR}:00, nie 20:00 — preskakujem."
+            exit 0
+          fi
+
+          TODAY=$(date +%F)
+          mkdir -p .streak
+
+          if [ -f .streak/log.md ] && grep -q "^- ${TODAY}" .streak/log.md; then
+            echo "Pre ${TODAY} už commit existuje — preskakujem."
+            exit 0
+          fi
+
+          if [ ! -f .streak/log.md ]; then
+            printf '# Streak log\n\n' > .streak/log.md
+          fi
+          printf -- '- %s %s\n' "$TODAY" "$(date +%H:%M\ %Z)" >> .streak/log.md
+
+          git config user.name "Slavo"
+          git config user.email "160755890+Sl4vis@users.noreply.github.com"
+          git add .streak/log.md
+          git commit -m "chore: daily update ${TODAY}"
+
+          for i in 1 2 3 4; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              exit 0
+            fi
+            echo "Push zlyhal, skúšam znova o $((2**i))s..."
+            sleep $((2**i))
+            git pull --rebase origin ${{ github.ref_name }} || true
+          done
+          echo "Push sa nepodaril." >&2
+          exit 1
