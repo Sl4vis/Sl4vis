@@ -8,12 +8,21 @@ on:
     branches:
       - main
       - master
+  workflow_run:
+    workflows:
+      - Daily Streak Commit
+    types:
+      - completed
+    branches:
+      - main
+      - master
 
 permissions:
   contents: write
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake
