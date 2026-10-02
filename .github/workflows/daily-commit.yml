@@ -2,8 +2,8 @@ name: Daily Streak Commit
 
 on:
   schedule:
-    # 18:00 UTC = 20:00 v lete (CEST), 19:00 UTC = 20:00 v zime (CET).
-    # Job sa spusti dvakrát, ale commit spraví len ak je v Bratislave presne 20:00.
+    # Dva spúšťače kvôli posunu CET/CEST.
+    # Duplicitný commit v ten istý deň zabráni kontrola v .streak/log.md.
     - cron: "0 18 * * *"
     - cron: "0 19 * * *"
   workflow_dispatch:
@@ -18,17 +18,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Commit ak je 20:00 v Bratislave
+      - name: Commit daily streak záznam
         env:
           TZ: Europe/Bratislava
         run: |
           set -euo pipefail
-
-          HOUR=$(date +%H)
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "$HOUR" != "20" ]; then
-            echo "Lokálny čas je ${HOUR}:00, nie 20:00 — preskakujem."
-            exit 0
-          fi
 
           TODAY=$(date +%F)
           mkdir -p .streak
